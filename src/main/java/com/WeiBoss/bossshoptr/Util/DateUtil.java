@@ -28,7 +28,12 @@ public class DateUtil {
                 .replace("l", "麓")
                 .replace("m", "濹")
                 .replace("n", "曩")
-                .replace("k", "磡");
+                .replace("k", "磡")
+                .replace("a", "錒")
+                .replace("b", "寳")
+                .replace("c", "黜")
+                .replace("d", "噵")
+                .replace("e", "㕎");
     }
 
     private static String onDateReplaceB(String date) {
@@ -37,7 +42,12 @@ public class DateUtil {
                 .replace("麓", "l")
                 .replace("濹", "m")
                 .replace("曩", "n")
-                .replace("磡", "k");
+                .replace("磡", "k")
+                .replace("錒", "a")
+                .replace("寳", "b")
+                .replace("黜", "c")
+                .replace("噵", "d")
+                .replace("㕎", "e");
     }
 
     public static String getDate(Date date) {

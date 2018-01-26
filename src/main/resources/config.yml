@@ -11,11 +11,11 @@ Time: 30
 #最多记录近多少天的交易记录
 MainGUI: '[交易记录查询]'
 ItemLore:
-- '---------------'
-- '玩家: %player%'
-- '交易时间: %date%'
-- '交易商店: %shop%'
-- '商品名称: %name%'
+- '&e&l&m                    '
+- ' &a&l玩家: &7&l%player%'
+- ' &a&l交易时间: %date%'
+- ' &a&l交易商店: &7&l%shop%'
+- ' &a&l商品名称: &7&l%name%'
 BossShop:
   Shop:
   #需要记录的商店名
