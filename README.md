@@ -7,11 +7,12 @@
 - 商品纪录白名单
 
 # Commands
-- /btr check <player> - 查询玩家所有交易记录
-- /btr shop <player> <name> - 查询玩家在某商店的所有交易记录
-- /btr day <player> <day> - 查询玩家近几天的交易记录
-- /btr select <player> <shop> <day> - 查询玩家在某商店近几天的交易记录
+- /btr check &lt;player&gt;- 查询玩家所有交易记录
+- /btr shop &lt;player&gt; &lt;name&gt; - 查询玩家在某商店的所有交易记录
+- /btr day &lt;player&gt; &lt;day&gt; - 查询玩家近几天的交易记录
+- /btr select &lt;player&gt; &lt;shop&gt; &lt;day&gt; - 查询玩家在某商店近几天的交易记录
 - /btr reload - 重载插件
+
 
 # Permission
 - bossshoptr.admin - 管理员权限
