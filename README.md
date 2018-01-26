@@ -1,6 +1,11 @@
 # BossShopTR
 用于记录BossShop商店的交易记录
 
+# Features
+- 数据库支持(必须)
+- 自定义纪录商店
+- 商品纪录白名单
+
 # Commands
 - /btr check <player> - 查询玩家所有交易记录
 - /btr shop <player> <name> - 查询玩家在某商店的所有交易记录
