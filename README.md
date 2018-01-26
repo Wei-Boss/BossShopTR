@@ -3,8 +3,8 @@
 
 # Features
 - 数据库支持(必须)
-- 自定义纪录商店
-- 商品纪录白名单
+- 自定义记录商店
+- 商品记录白名单
 
 # Commands
 - /btr check &lt;player&gt;- 查询玩家所有交易记录
