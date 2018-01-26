@@ -10,3 +10,4 @@
 
 # Permission
 - bossshoptr.admin - 管理员权限
+<img src='http://i4.bvimg.com/607929/8910c5e6a9de9496.png'>
